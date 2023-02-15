@@ -33,6 +33,8 @@ The average demand for shared bikes was highest during the fall season.
 The average demand for shared bikes was less during the holidays
 The average demand for shared bikes was high when the weather was clear, Few clouds, Partly cloudy, Partly cloudy
 Other relevant observations and analysis are documented in the notebook.
+
+
 Technologies Used
 
 numpy
